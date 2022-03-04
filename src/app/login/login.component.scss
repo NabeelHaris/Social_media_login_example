@@ -1,0 +1,22 @@
+.c-body {
+  margin: auto;
+
+  .img-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #efefef;
+    img {
+      width: 150px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+    }
+  }
+  button {
+      cursor: pointer;
+  }
+//   i {
+//     color: #0d6efd;
+//     cursor: pointer;
+//   }
+}
